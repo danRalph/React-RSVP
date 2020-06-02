@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-RSVP/static/css/main.73197f2c.chunk.css",
+    "main.js": "/React-RSVP/static/js/main.e1d5d897.chunk.js",
+    "main.js.map": "/React-RSVP/static/js/main.e1d5d897.chunk.js.map",
+    "runtime-main.js": "/React-RSVP/static/js/runtime-main.7333fd10.js",
+    "runtime-main.js.map": "/React-RSVP/static/js/runtime-main.7333fd10.js.map",
+    "static/js/2.f0021a35.chunk.js": "/React-RSVP/static/js/2.f0021a35.chunk.js",
+    "static/js/2.f0021a35.chunk.js.map": "/React-RSVP/static/js/2.f0021a35.chunk.js.map",
+    "index.html": "/React-RSVP/index.html",
+    "precache-manifest.5e3bcd2834302f80fee1e4bf2772b441.js": "/React-RSVP/precache-manifest.5e3bcd2834302f80fee1e4bf2772b441.js",
+    "service-worker.js": "/React-RSVP/service-worker.js",
+    "static/css/main.73197f2c.chunk.css.map": "/React-RSVP/static/css/main.73197f2c.chunk.css.map",
+    "static/js/2.f0021a35.chunk.js.LICENSE.txt": "/React-RSVP/static/js/2.f0021a35.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React-RSVP/static/media/header-bg.be92ab00.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7333fd10.js",
+    "static/js/2.f0021a35.chunk.js",
+    "static/css/main.73197f2c.chunk.css",
+    "static/js/main.e1d5d897.chunk.js"
+  ]
+}
